@@ -17,7 +17,7 @@ MergeしたらCloseします。
 リポジトリオーナーは翻訳に関して全くの素人です。  
 翻訳技法云々や進行方法についての改善案を募集しています。
 
-# Why do you speak Japanese? Stop speaking f**** Japanese and speaking Chinese/English!
+# Why do you speak Japanese? Stop speaking f**** Japanese and speak Chinese/English!
 英語も中国語も全く読めないし書けません。  
 許してくれるだろうか、  
 許してくれるね。  
